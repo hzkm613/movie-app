@@ -1,8 +1,8 @@
 ## 🎥 Movie App (React Beginner Course)
 
-**Lecture Link**: https://nomadcoders.co/react-for-beginners\
-**Date**: 2025.01.23 - 2025.01.25\
-**Project Description**: Create an application that displays a list of movies and their details using React JS\
+**Lecture Link**: https://nomadcoders.co/react-for-beginners <br />
+**Date**: 2025.01.23 - 2025.01.25 <br />
+**Project Description**: Create an application that displays a list of movies and their details using React JS <br />
 **API**: [YTS Movies API](https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year)
 
 ### ✨ What I Learned:
